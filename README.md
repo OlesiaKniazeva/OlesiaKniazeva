@@ -2,7 +2,7 @@
 
 I'm Olesia, a passionate Frontend Developer.
 
-- 🌱 I’m currently deepening my knowledge in Frontend Development, particularly in React.
+- 🌱 I’m currently deepening my knowledge in Frontend Development, particularly in React and TypeScript
   
 - ⚡️ Fun fact: I exercise every day and love spending time in nature and hiking.
 
