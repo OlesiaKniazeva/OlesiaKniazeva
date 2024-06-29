@@ -4,10 +4,10 @@
 </div>
 
 # Hi there 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=90>
-### I'm Olesia, a passionate Frontend Developer.
+### I'm Olesia, a passionate Web Developer.
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently deepening my knowledge in Frontend Development, particularly in React and TypeScript
+- 🌱 I’m currently deepening my knowledge in Web Development, particularly in React and TypeScript
 - ⚡️ Fun fact: I exercise every day and love spending time in nature and hiking.
 - 📧 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Oliettani-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Oliettani)
 
