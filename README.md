@@ -22,8 +22,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23bebebe?style=for-the-badge&logo=html5&logoColor=%20%23e34c26%20)
-![CSS](https://img.shields.io/badge/CSS-%23bebebe?style=for-the-badge&logo=css3&logoColor=%20%23264de4%20)
+![HTML](https://img.shields.io/badge/HTML-E5532D?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1C76B8?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=%252361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -31,6 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-%23FFE873?style=for-the-badge&logo=python)
 ![Jest](https://img.shields.io/badge/Jest-darkred?style=for-the-badge&logo=jest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05639?style=for-the-badge&logo=git&logoColor=white)
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=OlesiaKniazeva&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
